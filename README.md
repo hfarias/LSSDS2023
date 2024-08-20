@@ -1,4 +1,5 @@
-# LSSDS2023
+# LSSDS2024
+
  Docker Workshop for La Serena School of Data Science - AURA Astronomy
 
 This repository serves as your go-to resource for mastering Docker, the powerful containerization technology that revolutionizes the way applications are developed, deployed, and scaled. Whether you're just getting started with Docker or looking to take your containerization skills to the next level with orchestration, this workshop has you covered.
